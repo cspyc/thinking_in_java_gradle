@@ -2,7 +2,7 @@
 // {Args: 5}
 package bookCode.concurrency.restaurant2;
 
-import enumerated.menu.*;
+import  bookCode.enumerated.menu.*;
 
 import java.util.ArrayList;
 import java.util.List;

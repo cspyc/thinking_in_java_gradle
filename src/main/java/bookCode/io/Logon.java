@@ -5,8 +5,8 @@ import java.io.*;
 import java.util.Date;
 import java.util.concurrent.TimeUnit;
 
-import static java.bookCode.net.mindview.util.Print.*;
-import static java.bookCode.net.mindview.util.Print.print;
+import static net.mindview.util.Print.*;
+import static net.mindview.util.Print.print;
 
 public class Logon implements Serializable {
   private Date date = new Date();

@@ -2,14 +2,14 @@ package bookCode.generics;//: generics/Fill2.java
 // Using adapters to simulate latent typing.
 // {main: Fill2Test}
 
-import java.bookCode.generics.coffee.*;
-import java.bookCode.net.mindview.util.*;
+import bookCode.generics.coffee.*;
+import net.mindview.util.*;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
 
-import static java.bookCode.net.mindview.util.Print.*;
-import static java.bookCode.net.mindview.util.Print.print;
+import static net.mindview.util.Print.*;
+import static net.mindview.util.Print.print;
 
 interface Addable<T> { void add(T t); }
 

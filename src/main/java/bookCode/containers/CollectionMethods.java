@@ -1,14 +1,14 @@
 package bookCode.containers;//: containers/CollectionMethods.java
 // Things you can do with all Collections.
 
-import java.bookCode.net.mindview.util.*;
+import net.mindview.util.*;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
 
-import static java.bookCode.net.mindview.util.Print.*;
-import static java.bookCode.net.mindview.util.Print.print;
+import static net.mindview.util.Print.*;
+import static net.mindview.util.Print.print;
 
 public class CollectionMethods {
   public static void main(String[] args) {

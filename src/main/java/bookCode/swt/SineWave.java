@@ -1,6 +1,6 @@
-package bookCode.swt;//package java.bookCode.swt;//: swt/SineWave.java
+package bookCode.swt;//package bookCode.swt;//: swt/SineWave.java
 //// SWT translation of Swing SineWave.java.
-//import java.bookCode.swt.util.*;
+//import bookCode.swt.util.*;
 //import org.eclipse.swt.*;
 //import org.eclipse.swt.widgets.*;
 //import org.eclipse.swt.events.*;

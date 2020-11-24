@@ -1,6 +1,6 @@
 package bookCode.strings;//: strings/ArrayListDisplay.java
 
-import java.bookCode.generics.coffee.*;
+import bookCode.generics.coffee.*;
 import java.util.ArrayList;
 
 public class ArrayListDisplay {

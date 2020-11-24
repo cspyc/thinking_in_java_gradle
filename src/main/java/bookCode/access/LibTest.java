@@ -1,6 +1,8 @@
 package bookCode.access;//: access/LibTest.java
 // Uses the library.
-import java.bookCode.net.mindview.simple.*;
+import net.mindview.simple.*;
+import net.mindview.simple.List;
+import net.mindview.simple.Vector;
 
 public class LibTest {
   public static void main(String[] args) {

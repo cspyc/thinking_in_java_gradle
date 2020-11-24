@@ -4,8 +4,8 @@ package bookCode.gui;//: gui/BorderLayout1.java
 import javax.swing.*;
 import java.awt.*;
 
-import static java.bookCode.net.mindview.util.SwingConsole.*;
-import static java.bookCode.net.mindview.util.SwingConsole.run;
+import static net.mindview.util.SwingConsole.*;
+import static net.mindview.util.SwingConsole.run;
 
 public class BorderLayout1 extends JFrame {
   public BorderLayout1() {

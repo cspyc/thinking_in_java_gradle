@@ -6,8 +6,7 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicInteger;
 
-import static java.bookCode.net.mindview.util.Print.*;
-import static java.bookCode.net.mindview.util.Print.print;
+import static net.mindview.util.Print.print;
 
 public class FastSimulation {
   static final int N_ELEMENTS = 100000;

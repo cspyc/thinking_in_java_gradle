@@ -1,7 +1,10 @@
 //: annotations/AtUnitExample3.java
 package bookCode.annotations;
-import net.mindview.atunit.*;
-import net.mindview.util.*;
+import  net.mindview.atunit.*;
+import  net.mindview.util.*;
+import net.mindview.atunit.Test;
+import net.mindview.atunit.TestObjectCreate;
+import net.mindview.util.OSExecute;
 
 public class AtUnitExample3 {
   private int n;
@@ -14,10 +17,12 @@ public class AtUnitExample3 {
     System.out.println("This is methodTwo");
     return 2;
   }
-  @TestObjectCreate static AtUnitExample3 create() {
+  @TestObjectCreate
+  static AtUnitExample3 create() {
     return new AtUnitExample3(47);
   }
-  @Test boolean initialization() { return n == 47; }
+  @Test
+  boolean initialization() { return n == 47; }
   @Test boolean methodOneTest() {
     return methodOne().equals("This is methodOne");
   }

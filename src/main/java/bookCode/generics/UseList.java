@@ -1,4 +1,4 @@
-package bookCode.generics;//package java.bookCode.generics;//: generics/UseList.java
+package bookCode.generics;//package bookCode.generics;//: generics/UseList.java
 //// {CompileTimeError} (Won't compile)
 //import java.util.*;
 //

@@ -1,10 +1,10 @@
 package bookCode.control;//: control/ForEachInt.java
 
-import static java.bookCode.net.mindview.util.Print.*;
-import static java.bookCode.net.mindview.util.Print.print;
-import static java.bookCode.net.mindview.util.Print.printnb;
-import static java.bookCode.net.mindview.util.Range.*;
-import static java.bookCode.net.mindview.util.Range.range;
+import static net.mindview.util.Print.*;
+import static net.mindview.util.Print.print;
+import static net.mindview.util.Print.printnb;
+import static net.mindview.util.Range.*;
+import static net.mindview.util.Range.range;
 
 public class ForEachInt {
   public static void main(String[] args) {

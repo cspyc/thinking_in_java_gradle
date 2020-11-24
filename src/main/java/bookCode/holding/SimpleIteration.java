@@ -1,6 +1,6 @@
 package bookCode.holding;//: holding/SimpleIteration.java
 
-import java.bookCode.typeinfo.pets.*;
+import bookCode.typeinfo.pets.*;
 import java.util.Iterator;
 import java.util.List;
 

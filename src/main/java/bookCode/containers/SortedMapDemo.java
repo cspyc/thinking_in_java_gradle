@@ -1,12 +1,12 @@
 package bookCode.containers;//: containers/SortedMapDemo.java
 // What you can do with a TreeMap.
 
-import java.bookCode.net.mindview.util.*;
+import net.mindview.util.*;
 import java.util.Iterator;
 import java.util.TreeMap;
 
-import static java.bookCode.net.mindview.util.Print.*;
-import static java.bookCode.net.mindview.util.Print.print;
+import static net.mindview.util.Print.*;
+import static net.mindview.util.Print.print;
 
 public class SortedMapDemo {
   public static void main(String[] args) {

@@ -1,6 +1,6 @@
 package pyc.ch21.exercise.concurrency.CompletableFuture;
 
-import cn.pyc.ch21.exercise.concurrency.RunnableTool.Nap;
+import pyc.ch21.exercise.concurrency.RunnableTool.Nap;
 
 /**
  * @author pi

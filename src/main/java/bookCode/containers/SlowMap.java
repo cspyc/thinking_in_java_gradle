@@ -1,7 +1,7 @@
 package bookCode.containers;//: containers/SlowMap.java
 // A Map implemented with ArrayLists.
 
-import java.bookCode.net.mindview.util.*;
+import net.mindview.util.*;
 import java.util.*;
 
 public class SlowMap<K,V> extends AbstractMap<K,V> {

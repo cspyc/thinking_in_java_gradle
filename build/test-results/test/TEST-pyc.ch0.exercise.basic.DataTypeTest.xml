@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pyc.ch0.exercise.basic.DataTypeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-24T08:39:59" hostname="LAPTOP-5GOOHDQ7" time="0.005">
+  <properties/>
+  <testcase name="should_return_string_join_by_custom_sign" classname="pyc.ch0.exercise.basic.DataTypeTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

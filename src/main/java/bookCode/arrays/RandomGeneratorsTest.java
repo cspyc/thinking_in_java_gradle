@@ -1,5 +1,6 @@
 package bookCode.arrays;//: arrays/RandomGeneratorsTest.java
-import net.mindview.util.*;
+import  net.mindview.util.*;
+import net.mindview.util.RandomGenerator;
 
 public class RandomGeneratorsTest {
   public static void main(String[] args) {

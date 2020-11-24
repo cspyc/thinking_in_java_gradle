@@ -1,6 +1,6 @@
 package pyc.ch21.exercise.concurrency.Future;
 
-import java.cn.pyc.ch21.exercise.concurrency.CallableTool.CountingTask;
+import pyc.ch21.exercise.concurrency.CallableTool.CountingTask;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

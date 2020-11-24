@@ -1,8 +1,8 @@
 //: innerclasses/Callbacks.java
 // Using inner classes for callbacks
 package bookCode.innerclasses;
-import static java.bookCode.net.mindview.util.Print.*;
-import static java.bookCode.net.mindview.util.Print.print;
+import static net.mindview.util.Print.*;
+import static net.mindview.util.Print.print;
 
 interface Incrementable {
   void increment();

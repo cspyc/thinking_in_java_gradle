@@ -1,7 +1,7 @@
 package bookCode.generics;//: generics/Generators.java
 // A utility to use with Generators.
 
-import generics.coffee.*;
+import bookCode.generics.coffee.*;
 import net.mindview.util.*;
 
 import java.util.ArrayList;

@@ -6,8 +6,8 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-import static java.bookCode.net.mindview.util.SwingConsole.*;
-import static java.bookCode.net.mindview.util.SwingConsole.run;
+import static net.mindview.util.SwingConsole.*;
+import static net.mindview.util.SwingConsole.run;
 
 public class MessageBoxes extends JFrame {
   private JButton[] b = {

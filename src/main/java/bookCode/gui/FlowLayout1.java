@@ -4,8 +4,8 @@ package bookCode.gui;//: gui/FlowLayout1.java
 import javax.swing.*;
 import java.awt.*;
 
-import static java.bookCode.net.mindview.util.SwingConsole.*;
-import static java.bookCode.net.mindview.util.SwingConsole.run;
+import static net.mindview.util.SwingConsole.*;
+import static net.mindview.util.SwingConsole.run;
 
 public class FlowLayout1 extends JFrame {
   public FlowLayout1() {

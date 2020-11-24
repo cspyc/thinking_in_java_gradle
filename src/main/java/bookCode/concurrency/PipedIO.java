@@ -9,7 +9,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 
-import static java.bookCode.net.mindview.util.Print.*;
+import static net.mindview.util.Print.*;
 
 class Sender implements Runnable {
   private Random rand = new Random(47);

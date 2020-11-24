@@ -1,6 +1,9 @@
 package bookCode.arrays;//: arrays/PrimitiveConversionDemonstration.java
 
-import net.mindview.util.*;
+import  net.mindview.util.*;
+import net.mindview.util.ConvertTo;
+import net.mindview.util.CountingGenerator;
+import net.mindview.util.Generated;
 
 import java.util.Arrays;
 

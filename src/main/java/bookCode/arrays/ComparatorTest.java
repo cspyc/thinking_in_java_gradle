@@ -1,7 +1,8 @@
 package bookCode.arrays;//: arrays/ComparatorTest.java
 // Implementing a Comparator for a class.
 
-import net.mindview.util.*;
+import  net.mindview.util.*;
+import net.mindview.util.Generated;
 
 import java.util.Arrays;
 import java.util.Comparator;

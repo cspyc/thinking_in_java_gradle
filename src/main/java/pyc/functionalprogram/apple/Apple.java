@@ -1,7 +1,7 @@
 package pyc.functionalprogram.apple;
 
 
-import java.cn.pyc.functionalprogram.apple.constants.Constants;
+import pyc.functionalprogram.apple.constants.Constants;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

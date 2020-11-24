@@ -2,7 +2,7 @@
 // Interfaces.
 package bookCode.interfaces.music5;
 
-import polymorphism.music.Note;
+import bookCode.polymorphism.music.Note;
 
 import static net.mindview.util.Print.*;
 

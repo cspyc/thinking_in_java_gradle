@@ -1,6 +1,6 @@
 package bookCode.annotations;////: annotations/InterfaceExtractorProcessorFactory.java
 //// APT-based annotation processing.
-//package java.bookCode.annotations;
+//package bookCode.annotations;
 //import com.sun.mirror.apt.*;
 //import com.sun.mirror.declaration.*;
 //import java.util.*;

@@ -6,8 +6,8 @@ import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 import java.awt.*;
 
-import static java.bookCode.net.mindview.util.SwingConsole.*;
-import static java.bookCode.net.mindview.util.SwingConsole.run;
+import static net.mindview.util.SwingConsole.*;
+import static net.mindview.util.SwingConsole.run;
 
 public class TabbedPane1 extends JFrame {
   private String[] flavors = {

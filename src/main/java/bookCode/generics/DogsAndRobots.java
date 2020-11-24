@@ -1,7 +1,7 @@
 package bookCode.generics;//: generics/DogsAndRobots.java
 // No latent typing in Java
 
-import typeinfo.pets.*;
+import bookCode.typeinfo.pets.*;
 
 import static net.mindview.util.Print.*;
 

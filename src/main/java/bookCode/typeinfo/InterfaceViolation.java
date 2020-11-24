@@ -1,6 +1,6 @@
 package bookCode.typeinfo;//: typeinfo/InterfaceViolation.java
 // Sneaking around an interface.
-import typeinfo.interfacea.*;
+import bookCode.typeinfo.interfacea.*;
 
 class B implements A {
   public void f() {}

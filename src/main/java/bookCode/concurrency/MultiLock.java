@@ -1,7 +1,6 @@
 package bookCode.concurrency;//: concurrency/MultiLock.java
 // One thread can reacquire the same lock.
-import static java.bookCode.net.mindview.util.Print.*;
-import static java.bookCode.net.mindview.util.Print.print;
+import static net.mindview.util.Print.print;
 
 public class MultiLock {
   public synchronized void f1(int count) {

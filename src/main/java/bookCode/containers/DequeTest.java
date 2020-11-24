@@ -1,8 +1,8 @@
 package bookCode.containers;//: containers/DequeTest.java
 
-import java.bookCode.net.mindview.util.*;
+import net.mindview.util.*;
 
-import static java.bookCode.net.mindview.util.Print.*;
+import static net.mindview.util.Print.*;
 
 public class DequeTest {
   static void fillTest(Deque<Integer> deque) {

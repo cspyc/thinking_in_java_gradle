@@ -1,6 +1,6 @@
 package bookCode.access;
 
-import java.bookCode.access.dessert.*;
+import bookCode.access.dessert.*;
 
 //: access/ChocolateChip.java
 //Can't use package-access member from another package.

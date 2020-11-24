@@ -1,7 +1,7 @@
 //: enumerated/Burrito.java
 package bookCode.enumerated;
 
-import static java.bookCode.enumerated.Spiciness.*;
+import static bookCode.enumerated.Spiciness.*;
 
 public class Burrito {
   Spiciness degree;

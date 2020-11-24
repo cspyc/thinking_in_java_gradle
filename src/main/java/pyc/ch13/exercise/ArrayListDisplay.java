@@ -1,7 +1,7 @@
 package pyc.ch13.exercise;//package java.pyc.ch13.exercise;
 //
 //import java.util.*;
-//import generics.coffee.*;
+//import bookCode.generics.coffee.*;
 //
 //public class ArrayListDisplay {
 //

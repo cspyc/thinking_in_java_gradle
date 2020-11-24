@@ -1,7 +1,7 @@
 package bookCode.typeinfo;//: typeinfo/AnonymousImplementation.java
 // Anonymous inner classes can't hide from reflection.
 
-import typeinfo.interfacea.*;
+import bookCode.typeinfo.interfacea.*;
 
 import static net.mindview.util.Print.*;
 

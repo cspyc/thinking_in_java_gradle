@@ -2,7 +2,7 @@
 // Generate different types of Coffee:
 package bookCode.generics.coffee;
 
-import java.bookCode.net.mindview.util.*;
+import net.mindview.util.*;
 import java.util.Iterator;
 import java.util.Random;
 

@@ -2,7 +2,10 @@ package bookCode.concurrency;//: concurrency/MapComparisons.java
 // {Args: 1 10 10} (Fast verification check during build)
 // Rough comparison of thread-safe Map performance.
 
-import java.bookCode.net.mindview.util.*;
+import net.mindview.util.*;
+import net.mindview.util.CountingGenerator;
+import net.mindview.util.MapData;
+
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;

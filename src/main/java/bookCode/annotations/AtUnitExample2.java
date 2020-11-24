@@ -3,7 +3,9 @@
 package bookCode.annotations;
 
 import net.mindview.atunit.*;
-import net.mindview.util.*;
+import  net.mindview.util.*;
+import net.mindview.atunit.Test;
+import net.mindview.util.OSExecute;
 
 import java.io.FileInputStream;
 import java.io.IOException;
@@ -16,7 +18,8 @@ public class AtUnitExample2 {
     System.out.println("This is methodTwo");
     return 2;
   }
-  @Test void assertExample() {
+  @Test
+  void assertExample() {
     assert methodOne().equals("This is methodOne");
   }
   @Test void assertFailureExample() {

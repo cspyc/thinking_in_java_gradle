@@ -1,6 +1,6 @@
 //: interfaces/interfaceprocessor/FilterProcessor.java
 package bookCode.interfaces.interfaceprocessor;
-import interfaces.filters.*;
+import bookCode.interfaces.filters.*;
 
 class FilterAdapter implements Processor {
   Filter filter;

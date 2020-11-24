@@ -1,6 +1,6 @@
 package bookCode.holding;//: holding/ListFeatures.java
 
-import typeinfo.pets.*;
+import bookCode.typeinfo.pets.*;
 
 import java.util.*;
 

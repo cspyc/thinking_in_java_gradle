@@ -1,6 +1,6 @@
 package bookCode.holding;//: holding/UniqueWords.java
 
-import java.bookCode.net.mindview.util.*;
+import net.mindview.util.*;
 import java.util.Set;
 import java.util.TreeSet;
 

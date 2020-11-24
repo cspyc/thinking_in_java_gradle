@@ -1,6 +1,6 @@
 package bookCode.holding;//: holding/CollectionSequence.java
 
-import typeinfo.pets.*;
+import bookCode.typeinfo.pets.*;
 
 import java.util.AbstractCollection;
 import java.util.Iterator;

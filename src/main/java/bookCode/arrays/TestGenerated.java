@@ -1,6 +1,8 @@
 package bookCode.arrays;//: arrays/TestGenerated.java
 
-import net.mindview.util.*;
+import  net.mindview.util.*;
+import net.mindview.util.CountingGenerator;
+import net.mindview.util.Generated;
 
 import java.util.Arrays;
 

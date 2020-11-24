@@ -1,7 +1,10 @@
 package bookCode.arrays;//: arrays/AlphabeticSearch.java
 // Searching with a Comparator.
 
-import java.bookCode.net.mindview.util.*;
+import net.mindview.util.*;
+import net.mindview.util.Generated;
+import net.mindview.util.RandomGenerator;
+
 import java.util.Arrays;
 
 public class AlphabeticSearch {

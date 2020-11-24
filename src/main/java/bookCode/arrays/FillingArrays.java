@@ -3,8 +3,7 @@ package bookCode.arrays;//: arrays/FillingArrays.java
 
 import java.util.Arrays;
 
-import static java.bookCode.net.mindview.util.Print.*;
-import static java.bookCode.net.mindview.util.Print.print;
+import static net.mindview.util.Print.print;
 
 public class FillingArrays {
   public static void main(String[] args) {

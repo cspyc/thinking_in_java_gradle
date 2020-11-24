@@ -1,12 +1,14 @@
 package bookCode.arrays;//: arrays/StringSorting.java
 // Sorting an array of Strings.
 
-import java.bookCode.net.mindview.util.*;
+import net.mindview.util.*;
+import net.mindview.util.Generated;
+import net.mindview.util.RandomGenerator;
+
 import java.util.Arrays;
 import java.util.Collections;
 
-import static java.bookCode.net.mindview.util.Print.*;
-import static java.bookCode.net.mindview.util.Print.print;
+import static net.mindview.util.Print.print;
 
 public class StringSorting {
   public static void main(String[] args) {

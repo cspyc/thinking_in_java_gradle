@@ -1,7 +1,7 @@
 package bookCode.innerclasses;//: innerclasses/AnonymousConstructor.java
 // Creating a constructor for an anonymous inner class.
-import static java.bookCode.net.mindview.util.Print.*;
-import static java.bookCode.net.mindview.util.Print.print;
+import static net.mindview.util.Print.*;
+import static net.mindview.util.Print.print;
 
 abstract class Base {
   public Base(int i) {

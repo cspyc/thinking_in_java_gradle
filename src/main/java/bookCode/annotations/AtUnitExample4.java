@@ -1,12 +1,16 @@
 //: annotations/AtUnitExample4.java
 package bookCode.annotations;
 
-import java.bookCode.net.mindview.atunit.*;
-import java.bookCode.net.mindview.util.*;
+import net.mindview.atunit.*;
+import net.mindview.util.*;
+import net.mindview.atunit.Test;
+import net.mindview.atunit.TestObjectCreate;
+import net.mindview.atunit.TestProperty;
+import net.mindview.util.OSExecute;
+
 import java.util.*;
 
-import static java.bookCode.net.mindview.util.Print.*;
-import static java.bookCode.net.mindview.util.Print.print;
+import static net.mindview.util.Print.print;
 
 public class AtUnitExample4 {
   static String theory = "All brontosauruses " +
@@ -26,17 +30,20 @@ public class AtUnitExample4 {
       result.append(ch);
     return result.toString();
   }
-  @TestProperty static List<String> input =
+  @TestProperty
+  static List<String> input =
     Arrays.asList(theory.split(" "));
   @TestProperty
     static Iterator<String> words = input.iterator();
-  @TestObjectCreate static AtUnitExample4 create() {
+  @TestObjectCreate
+  static AtUnitExample4 create() {
     if(words.hasNext())
       return new AtUnitExample4(words.next());
     else
       return null;
   }
-  @Test boolean words() {
+  @Test
+  boolean words() {
     print("'" + getWord() + "'");
     return getWord().equals("are");
   }

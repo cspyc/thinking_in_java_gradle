@@ -1,6 +1,6 @@
-package bookCode.strings;//package java.bookCode.strings;//: strings/Groups.java
+package bookCode.strings;//package bookCode.strings;//: strings/Groups.java
 //import java.util.regex.*;
-//import static java.bookCode.net.mindview.util.Print.*;
+//import static net.mindview.util.Print.*;
 //
 //public class Groups {
 //  static public final String POEM =

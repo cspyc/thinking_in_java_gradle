@@ -6,8 +6,8 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-import static java.bookCode.net.mindview.util.SwingConsole.*;
-import static java.bookCode.net.mindview.util.SwingConsole.run;
+import static net.mindview.util.SwingConsole.*;
+import static net.mindview.util.SwingConsole.run;
 
 public class CheckBoxes extends JFrame {
   private JTextArea t = new JTextArea(6, 15);

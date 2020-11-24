@@ -3,7 +3,7 @@ package bookCode.io;//: io/GetData.java
 
 import java.nio.ByteBuffer;
 
-import static java.bookCode.net.mindview.util.Print.*;
+import static net.mindview.util.Print.*;
 
 public class GetData {
   private static final int BSIZE = 1024;

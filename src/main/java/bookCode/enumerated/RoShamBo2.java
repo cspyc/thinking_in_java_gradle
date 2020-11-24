@@ -1,7 +1,7 @@
 //: enumerated/RoShamBo2.java
 // Switching one enum on another.
 package bookCode.enumerated;
-import static enumerated.Outcome.*;
+import static bookCode.enumerated.Outcome.*;
 
 public enum RoShamBo2 implements Competitor<RoShamBo2> {
   PAPER(DRAW, LOSE, WIN),

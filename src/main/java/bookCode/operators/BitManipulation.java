@@ -3,8 +3,8 @@ package bookCode.operators;//: operators/BitManipulation.java
 
 import java.util.Random;
 
-import static java.bookCode.net.mindview.util.Print.*;
-import static java.bookCode.net.mindview.util.Print.print;
+import static net.mindview.util.Print.*;
+import static net.mindview.util.Print.print;
 
 public class BitManipulation {
   public static void main(String[] args) {

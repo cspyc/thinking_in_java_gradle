@@ -3,8 +3,8 @@ package bookCode.strings;//: strings/SplitDemo.java
 import java.util.Arrays;
 import java.util.regex.Pattern;
 
-import static java.bookCode.net.mindview.util.Print.*;
-import static java.bookCode.net.mindview.util.Print.print;
+import static net.mindview.util.Print.*;
+import static net.mindview.util.Print.print;
 
 public class SplitDemo {
   public static void main(String[] args) {

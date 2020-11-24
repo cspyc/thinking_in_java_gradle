@@ -1,4 +1,4 @@
-package bookCode.xml;//package java.bookCode.xml;//: xml/Person.java
+package bookCode.xml;//package bookCode.xml;//: xml/Person.java
 //// Use the XOM library to write and read XML
 //// {Requires: nu.xom.Node; You must install
 //// the XOM library from http://www.xom.nu }

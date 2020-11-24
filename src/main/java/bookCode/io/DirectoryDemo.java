@@ -1,11 +1,11 @@
 package bookCode.io;//: io/DirectoryDemo.java
 // Sample use of Directory utilities.
 
-import java.bookCode.net.mindview.util.*;
+import net.mindview.util.*;
 import java.io.File;
 
-import static java.bookCode.net.mindview.util.Print.*;
-import static java.bookCode.net.mindview.util.Print.print;
+import static net.mindview.util.Print.*;
+import static net.mindview.util.Print.print;
 
 public class DirectoryDemo {
   public static void main(String[] args) {

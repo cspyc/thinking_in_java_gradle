@@ -1,7 +1,8 @@
 package bookCode.concurrency;//: concurrency/DaemonFromFactory.java
 // Using a Thread Factory to create daemons.
 
-import net.mindview.util.*;
+import  net.mindview.util.*;
+import net.mindview.util.DaemonThreadFactory;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

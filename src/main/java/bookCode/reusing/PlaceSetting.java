@@ -1,7 +1,7 @@
 package bookCode.reusing;//: reusing/PlaceSetting.java
 // Combining composition & inheritance.
-import static java.bookCode.net.mindview.util.Print.*;
-import static java.bookCode.net.mindview.util.Print.print;
+import static net.mindview.util.Print.*;
+import static net.mindview.util.Print.print;
 
 class Plate {
   Plate(int i) {

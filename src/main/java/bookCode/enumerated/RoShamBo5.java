@@ -4,7 +4,7 @@ package bookCode.enumerated;
 
 import java.util.EnumMap;
 
-import static enumerated.Outcome.*;
+import static bookCode.enumerated.Outcome.*;
 
 enum RoShamBo5 implements Competitor<RoShamBo5> {
   PAPER, SCISSORS, ROCK;

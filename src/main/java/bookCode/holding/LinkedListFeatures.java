@@ -1,6 +1,6 @@
 package bookCode.holding;//: holding/LinkedListFeatures.java
 
-import typeinfo.pets.*;
+import bookCode.typeinfo.pets.*;
 
 import java.util.LinkedList;
 

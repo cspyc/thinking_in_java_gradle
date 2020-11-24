@@ -1,11 +1,14 @@
 //: annotations/AtUnitExternalTest.java
 // Creating non-embedded tests.
 package bookCode.annotations;
-import net.mindview.atunit.*;
-import net.mindview.util.*;
+import  net.mindview.atunit.*;
+import  net.mindview.util.*;
+import net.mindview.atunit.Test;
+import net.mindview.util.OSExecute;
 
 public class AtUnitExternalTest extends AtUnitExample1 {
-  @Test boolean _methodOne() {
+  @Test
+  boolean _methodOne() {
     return methodOne().equals("This is methodOne");
   }
   @Test boolean _methodTwo() { return methodTwo() == 2; }

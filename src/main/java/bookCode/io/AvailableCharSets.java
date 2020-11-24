@@ -5,7 +5,7 @@ import java.nio.charset.Charset;
 import java.util.Iterator;
 import java.util.SortedMap;
 
-import static java.bookCode.net.mindview.util.Print.*;
+import static net.mindview.util.Print.*;
 
 public class AvailableCharSets {
   public static void main(String[] args) {

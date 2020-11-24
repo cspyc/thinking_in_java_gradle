@@ -1,4 +1,4 @@
-package bookCode.swt;//package java.bookCode.swt;//: swt/DisplayProperties.java
+package bookCode.swt;//package bookCode.swt;//: swt/DisplayProperties.java
 //import org.eclipse.swt.*;
 //import org.eclipse.swt.widgets.*;
 //import org.eclipse.swt.layout.*;

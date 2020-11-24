@@ -1,5 +1,5 @@
-package bookCode.typeinfo;//package java.bookCode.typeinfo;//: typeinfo/PetCount4.java
-//import typeinfo.pets.*;
+package bookCode.typeinfo;//package bookCode.typeinfo;//: typeinfo/PetCount4.java
+//import bookCode.typeinfo.pets.*;
 //import net.mindview.util.*;
 //import static net.mindview.util.Print.*;
 //

@@ -1,5 +1,5 @@
 package bookCode.typeinfo;//: typeinfo/PetCount2.java
-import typeinfo.pets.*;
+import bookCode.typeinfo.pets.*;
 
 public class PetCount2 {
   public static void main(String[] args) {

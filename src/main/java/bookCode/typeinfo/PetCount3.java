@@ -1,12 +1,12 @@
 package bookCode.typeinfo;//: typeinfo/PetCount3.java
 // Using isInstance()
 
-import java.bookCode.net.mindview.util.*;
-import java.bookCode.typeinfo.pets.*;
+import net.mindview.util.*;
+import bookCode.typeinfo.pets.*;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-import static java.bookCode.net.mindview.util.Print.*;
+import static net.mindview.util.Print.*;
 
 public class PetCount3 {
   static class PetCounter

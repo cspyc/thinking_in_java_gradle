@@ -1,5 +1,5 @@
 package bookCode.holding;//: holding/InterfaceVsIterator.java
-import java.bookCode.typeinfo.pets.*;
+import bookCode.typeinfo.pets.*;
 import java.util.*;
 
 public class InterfaceVsIterator {

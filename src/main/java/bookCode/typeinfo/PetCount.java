@@ -1,7 +1,7 @@
 package bookCode.typeinfo;//: typeinfo/PetCount.java
 // Using instanceof.
 
-import typeinfo.pets.*;
+import bookCode.typeinfo.pets.*;
 
 import java.util.HashMap;
 

@@ -1,7 +1,7 @@
 package bookCode.containers;//: containers/Enumerations.java
 // Java 1.0/1.1 Vector and Enumeration.
 
-import java.bookCode.net.mindview.util.*;
+import net.mindview.util.*;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Enumeration;

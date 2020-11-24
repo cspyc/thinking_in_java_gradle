@@ -1,11 +1,11 @@
 package bookCode.generics;//: generics/WatercolorSets.java
 
-import generics.watercolors.*;
+import bookCode.generics.watercolors.*;
 
 import java.util.EnumSet;
 import java.util.Set;
 
-import static generics.watercolors.Watercolors.*;
+import static bookCode.generics.watercolors.Watercolors.*;
 import static net.mindview.util.Print.*;
 import static net.mindview.util.Sets.*;
 

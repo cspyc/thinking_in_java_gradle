@@ -1,7 +1,7 @@
 package bookCode.generics;//: generics/ExplicitTypeSpecification.java
 
 import net.mindview.util.*;
-import typeinfo.pets.*;
+import bookCode.typeinfo.pets.*;
 
 import java.util.List;
 import java.util.Map;

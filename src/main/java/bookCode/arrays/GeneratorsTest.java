@@ -1,5 +1,7 @@
 package bookCode.arrays;//: arrays/GeneratorsTest.java
-import net.mindview.util.*;
+import  net.mindview.util.*;
+import net.mindview.util.CountingGenerator;
+import net.mindview.util.Generator;
 
 public class GeneratorsTest {
   public static int size = 10;

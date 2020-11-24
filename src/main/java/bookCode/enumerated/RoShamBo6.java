@@ -2,7 +2,7 @@
 // Enums using "tables" instead of multiple dispatch.
 package bookCode.enumerated;
 
-import static java.bookCode.enumerated.Outcome.*;
+import static bookCode.enumerated.Outcome.*;
 
 enum RoShamBo6 implements Competitor<RoShamBo6> {
   PAPER, SCISSORS, ROCK;

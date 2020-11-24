@@ -1,13 +1,13 @@
 package bookCode.enumerated;//: enumerated/Reflection.java
 // Analyzing enums using reflection.
 
-import java.bookCode.net.mindview.util.*;
+import net.mindview.util.*;
 import java.lang.reflect.Method;
 import java.lang.reflect.Type;
 import java.util.Set;
 import java.util.TreeSet;
 
-import static java.bookCode.net.mindview.util.Print.*;
+import static net.mindview.util.Print.*;
 
 enum Explore { HERE, THERE }
 

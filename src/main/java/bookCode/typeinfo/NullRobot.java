@@ -1,7 +1,7 @@
 package bookCode.typeinfo;//: typeinfo/NullRobot.java
 // Using a dynamic proxy to create a Null Object.
 
-import java.bookCode.net.mindview.util.*;
+import net.mindview.util.*;
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 import java.lang.reflect.Proxy;

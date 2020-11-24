@@ -4,7 +4,7 @@ package bookCode.enumerated;
 
 import java.util.Random;
 
-import static java.bookCode.enumerated.Outcome.*;
+import static bookCode.enumerated.Outcome.*;
 
 interface Item {
   Outcome compete(Item it);

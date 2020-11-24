@@ -1,5 +1,5 @@
-package bookCode.holding;//package java.bookCode.holding;//: holding/StackCollision.java
-//import java.bookCode.net.mindview.util.*;
+package bookCode.holding;//package bookCode.holding;//: holding/StackCollision.java
+//import net.mindview.util.*;
 //
 //public class StackCollision {
 //  public static void main(String[] args) {

@@ -1,6 +1,6 @@
 package bookCode.access;//: access/Dinner.java
 // Uses the library.
-import access.dessert.*;
+import bookCode.access.dessert.*;
 
 public class Dinner {
   public static void main(String[] args) {

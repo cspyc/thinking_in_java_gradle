@@ -1,5 +1,5 @@
 package bookCode.generics;//: generics/PrimitiveGenericTest.java
-import java.bookCode.net.mindview.util.*;
+import net.mindview.util.*;
 
 // Fill an array using a generator:
 class FArray {

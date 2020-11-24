@@ -1,6 +1,9 @@
 package bookCode.concurrency;//: concurrency/ExchangerDemo.java
 
-import java.bookCode.net.mindview.util.*;
+import net.mindview.util.*;
+import net.mindview.util.BasicGenerator;
+import net.mindview.util.Generator;
+
 import java.util.List;
 import java.util.concurrent.*;
 

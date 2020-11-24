@@ -1,7 +1,7 @@
 package bookCode.containers;//: containers/IndividualTest.java
 
-import java.bookCode.holding.MapOfList;
-import java.bookCode.typeinfo.pets.*;
+import bookCode.holding.MapOfList;
+import bookCode.typeinfo.pets.*;
 import java.util.List;
 import java.util.Set;
 import java.util.TreeSet;

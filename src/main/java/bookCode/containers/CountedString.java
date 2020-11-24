@@ -6,8 +6,8 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import static java.bookCode.net.mindview.util.Print.*;
-import static java.bookCode.net.mindview.util.Print.print;
+import static net.mindview.util.Print.*;
+import static net.mindview.util.Print.print;
 
 public class CountedString {
   private static List<String> created =

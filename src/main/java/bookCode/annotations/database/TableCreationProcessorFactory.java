@@ -3,7 +3,7 @@ package bookCode.annotations.database;////: annotations/database/TableCreationPr
 //// {Exec: apt -factory
 //// annotations.database.TableCreationProcessorFactory
 //// database/Member.java -s database}
-//package java.bookCode.annotations.database;
+//package bookCode.annotations.database;
 //import com.sun.mirror.apt.*;
 //import com.sun.mirror.declaration.*;
 //import com.sun.mirror.util.*;

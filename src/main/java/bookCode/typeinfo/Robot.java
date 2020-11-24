@@ -1,6 +1,6 @@
 package bookCode.typeinfo;//: typeinfo/Robot.java
 
-import java.bookCode.net.mindview.util.*;
+import net.mindview.util.*;
 import java.util.List;
 
 public interface Robot {

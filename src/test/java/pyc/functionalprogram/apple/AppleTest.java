@@ -3,7 +3,7 @@ package pyc.functionalprogram.apple;
 import org.junit.Assert;
 import org.junit.Test;
 
-import java.cn.pyc.functionalprogram.apple.constants.Constants;
+import pyc.functionalprogram.apple.constants.Constants;
 import java.util.function.Function;
 
 /**

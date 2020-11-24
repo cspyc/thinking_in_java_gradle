@@ -5,7 +5,7 @@ package bookCode.enumerated;
 import java.util.EnumMap;
 import java.util.Map;
 
-import static enumerated.AlarmPoints.*;
+import static bookCode.enumerated.AlarmPoints.*;
 import static net.mindview.util.Print.*;
 
 interface Command { void action(); }

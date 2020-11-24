@@ -1,7 +1,9 @@
 package bookCode.arrays;//: arrays/CompType.java
 // Implementing Comparable in a class.
 
-import net.mindview.util.*;
+import  net.mindview.util.*;
+import net.mindview.util.Generated;
+import net.mindview.util.Generator;
 
 import java.util.Arrays;
 import java.util.Random;

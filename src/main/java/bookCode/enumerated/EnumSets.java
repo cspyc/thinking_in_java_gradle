@@ -4,15 +4,15 @@ package bookCode.enumerated;
 
 import java.util.EnumSet;
 
-import static java.bookCode.enumerated.AlarmPoints.*;
-import static java.bookCode.enumerated.AlarmPoints.BATHROOM;
-import static java.bookCode.enumerated.AlarmPoints.KITCHEN;
-import static java.bookCode.enumerated.AlarmPoints.OFFICE1;
-import static java.bookCode.enumerated.AlarmPoints.OFFICE4;
-import static java.bookCode.enumerated.AlarmPoints.STAIR1;
-import static java.bookCode.enumerated.AlarmPoints.STAIR2;
-import static java.bookCode.net.mindview.util.Print.*;
-import static java.bookCode.net.mindview.util.Print.print;
+import static bookCode.enumerated.AlarmPoints.*;
+import static bookCode.enumerated.AlarmPoints.BATHROOM;
+import static bookCode.enumerated.AlarmPoints.KITCHEN;
+import static bookCode.enumerated.AlarmPoints.OFFICE1;
+import static bookCode.enumerated.AlarmPoints.OFFICE4;
+import static bookCode.enumerated.AlarmPoints.STAIR1;
+import static bookCode.enumerated.AlarmPoints.STAIR2;
+import static net.mindview.util.Print.*;
+import static net.mindview.util.Print.print;
 
 public class EnumSets {
   public static void main(String[] args) {

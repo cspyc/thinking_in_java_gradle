@@ -1,7 +1,7 @@
-package bookCode.generics;//package java.bookCode.generics;//: generics/Store.java
+package bookCode.generics;//package bookCode.generics;//: generics/Store.java
 //// Building up a complex model using generic containers.
 //import java.util.*;
-//import java.bookCode.net.mindview.util.*;
+//import net.mindview.util.*;
 //
 //class Product {
 //  private final int id;

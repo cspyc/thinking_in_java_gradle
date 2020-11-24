@@ -1,7 +1,7 @@
 package bookCode.concurrency;//: concurrency/SyncObject.java
 // Synchronizing on another object.
-import static java.bookCode.net.mindview.util.Print.*;
-import static java.bookCode.net.mindview.util.Print.print;
+import static net.mindview.util.Print.*;
+import static net.mindview.util.Print.print;
 
 class DualSynch {
   private Object syncObject = new Object();

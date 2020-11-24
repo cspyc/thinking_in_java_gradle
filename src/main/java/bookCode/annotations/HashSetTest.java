@@ -1,13 +1,17 @@
 //: annotations/HashSetTest.java
 package bookCode.annotations;
 
-import java.bookCode.net.mindview.atunit.*;
-import java.bookCode.net.mindview.util.*;
+import net.mindview.atunit.*;
+import net.mindview.util.*;
+import net.mindview.atunit.Test;
+import net.mindview.util.OSExecute;
+
 import java.util.HashSet;
 
 public class HashSetTest {
   HashSet<String> testObject = new HashSet<String>();
-  @Test void initialization() {
+  @Test
+  void initialization() {
     assert testObject.isEmpty();
   }
   @Test void _contains() {

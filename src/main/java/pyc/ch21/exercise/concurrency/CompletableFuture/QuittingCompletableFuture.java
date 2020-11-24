@@ -1,8 +1,8 @@
 package pyc.ch21.exercise.concurrency.CompletableFuture;
 
-import cn.pyc.ch21.exercise.concurrency.RunnableTool.Nap;
-import cn.pyc.ch21.exercise.concurrency.RunnableTool.QuitAbleTask;
-import cn.pyc.ch21.exercise.concurrency.RunnableTool.QuitAbleTaskThreads;
+import pyc.ch21.exercise.concurrency.RunnableTool.Nap;
+import pyc.ch21.exercise.concurrency.RunnableTool.QuitAbleTask;
+import pyc.ch21.exercise.concurrency.RunnableTool.QuitAbleTaskThreads;
 
 import java.util.List;
 import java.util.concurrent.CompletableFuture;

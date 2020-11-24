@@ -1,7 +1,7 @@
 //: typeinfo/packageaccess/HiddenC.java
 package bookCode.typeinfo.packageaccess;
 
-import typeinfo.interfacea.*;
+import bookCode.typeinfo.interfacea.*;
 
 import static net.mindview.util.Print.*;
 

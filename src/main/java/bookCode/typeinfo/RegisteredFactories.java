@@ -1,7 +1,7 @@
 package bookCode.typeinfo;//: typeinfo/RegisteredFactories.java
 // Registering Class Factories in the base class.
 
-import typeinfo.factory.*;
+import bookCode.typeinfo.factory.*;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -36,21 +36,21 @@ class Filter extends Part {}
 class FuelFilter extends Filter {
   // Create a Class Factory for each specific type:
   public static class Factory
-  implements typeinfo.factory.Factory<FuelFilter> {
+  implements bookCode.typeinfo.factory.Factory<FuelFilter> {
     public FuelFilter create() { return new FuelFilter(); }
   }
 }
 
 class AirFilter extends Filter {
   public static class Factory
-  implements typeinfo.factory.Factory<AirFilter> {
+  implements bookCode.typeinfo.factory.Factory<AirFilter> {
     public AirFilter create() { return new AirFilter(); }
   }
 }
 
 class CabinAirFilter extends Filter {
   public static class Factory
-  implements typeinfo.factory.Factory<CabinAirFilter> {
+  implements bookCode.typeinfo.factory.Factory<CabinAirFilter> {
     public CabinAirFilter create() {
       return new CabinAirFilter();
     }
@@ -59,7 +59,7 @@ class CabinAirFilter extends Filter {
 
 class OilFilter extends Filter {
   public static class Factory
-  implements typeinfo.factory.Factory<OilFilter> {
+  implements bookCode.typeinfo.factory.Factory<OilFilter> {
     public OilFilter create() { return new OilFilter(); }
   }
 }
@@ -68,14 +68,14 @@ class Belt extends Part {}
 
 class FanBelt extends Belt {
   public static class Factory
-  implements typeinfo.factory.Factory<FanBelt> {
+  implements bookCode.typeinfo.factory.Factory<FanBelt> {
     public FanBelt create() { return new FanBelt(); }
   }
 }
 
 class GeneratorBelt extends Belt {
   public static class Factory
-  implements typeinfo.factory.Factory<GeneratorBelt> {
+  implements bookCode.typeinfo.factory.Factory<GeneratorBelt> {
     public GeneratorBelt create() {
       return new GeneratorBelt();
     }
@@ -84,7 +84,7 @@ class GeneratorBelt extends Belt {
 
 class PowerSteeringBelt extends Belt {
   public static class Factory
-  implements typeinfo.factory.Factory<PowerSteeringBelt> {
+  implements bookCode.typeinfo.factory.Factory<PowerSteeringBelt> {
     public PowerSteeringBelt create() {
       return new PowerSteeringBelt();
     }

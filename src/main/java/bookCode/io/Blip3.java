@@ -3,8 +3,8 @@ package bookCode.io;//: io/Blip3.java
 
 import java.io.*;
 
-import static java.bookCode.net.mindview.util.Print.*;
-import static java.bookCode.net.mindview.util.Print.print;
+import static net.mindview.util.Print.*;
+import static net.mindview.util.Print.print;
 
 public class Blip3 implements Externalizable {
   private int i;

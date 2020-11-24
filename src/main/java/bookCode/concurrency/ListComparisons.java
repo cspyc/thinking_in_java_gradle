@@ -2,7 +2,8 @@ package bookCode.concurrency;//: concurrency/ListComparisons.java
 // {Args: 1 10 10} (Fast verification check during build)
 // Rough comparison of thread-safe List performance.
 
-import net.mindview.util.*;
+import  net.mindview.util.*;
+import net.mindview.util.CountingIntegerList;
 
 import java.util.ArrayList;
 import java.util.Collections;

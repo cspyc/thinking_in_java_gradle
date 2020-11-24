@@ -2,7 +2,7 @@
 // An enum can implement an interface
 package bookCode.enumerated.cartoons;
 
-import java.bookCode.net.mindview.util.*;
+import net.mindview.util.*;
 import java.util.Random;
 
 enum CartoonCharacter

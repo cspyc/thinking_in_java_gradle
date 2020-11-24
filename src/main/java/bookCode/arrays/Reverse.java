@@ -1,7 +1,8 @@
 package bookCode.arrays;//: arrays/Reverse.java
 // The Collections.reverseOrder() Comparator
 
-import net.mindview.util.*;
+import  net.mindview.util.*;
+import net.mindview.util.Generated;
 
 import java.util.Arrays;
 import java.util.Collections;

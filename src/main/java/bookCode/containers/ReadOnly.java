@@ -1,11 +1,11 @@
 package bookCode.containers;//: containers/ReadOnly.java
 // Using the Collections.unmodifiable methods.
 
-import java.bookCode.net.mindview.util.*;
+import net.mindview.util.*;
 import java.util.*;
 
-import static java.bookCode.net.mindview.util.Print.*;
-import static java.bookCode.net.mindview.util.Print.print;
+import static net.mindview.util.Print.*;
+import static net.mindview.util.Print.print;
 
 public class ReadOnly {
   static Collection<String> data =

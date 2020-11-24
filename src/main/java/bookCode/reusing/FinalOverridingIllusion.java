@@ -1,8 +1,8 @@
 package bookCode.reusing;//: reusing/FinalOverridingIllusion.java
 // It only looks like you can override
 // a private or private final method.
-import static java.bookCode.net.mindview.util.Print.*;
-import static java.bookCode.net.mindview.util.Print.print;
+import static net.mindview.util.Print.*;
+import static net.mindview.util.Print.print;
 
 class WithFinals {
   // Identical to "private" alone:

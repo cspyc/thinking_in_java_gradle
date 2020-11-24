@@ -2,10 +2,10 @@
 // An extensible program.
 package bookCode.polymorphism.music3;
 
-import java.bookCode.polymorphism.music.Note;
+import bookCode.polymorphism.music.Note;
 
-import static java.bookCode.net.mindview.util.Print.*;
-import static java.bookCode.net.mindview.util.Print.print;
+import static net.mindview.util.Print.*;
+import static net.mindview.util.Print.print;
 
 class Instrument {
   void play(Note n) { print("Instrument.play() " + n); }

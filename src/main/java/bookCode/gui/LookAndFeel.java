@@ -5,8 +5,8 @@ package bookCode.gui;//: gui/LookAndFeel.java
 import javax.swing.*;
 import java.awt.*;
 
-import static java.bookCode.net.mindview.util.SwingConsole.*;
-import static java.bookCode.net.mindview.util.SwingConsole.run;
+import static net.mindview.util.SwingConsole.*;
+import static net.mindview.util.SwingConsole.run;
 
 public class LookAndFeel extends JFrame {
   private String[] choices =

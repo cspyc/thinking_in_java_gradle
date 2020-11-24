@@ -1,5 +1,5 @@
 package bookCode.generics;//: generics/TupleTest.java
-import java.bookCode.net.mindview.util.*;
+import net.mindview.util.*;
 
 class Amphibian {}
 

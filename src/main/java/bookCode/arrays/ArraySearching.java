@@ -1,7 +1,11 @@
 package bookCode.arrays;//: arrays/ArraySearching.java
 // Using Arrays.binarySearch().
 
-import net.mindview.util.*;
+import  net.mindview.util.*;
+import net.mindview.util.ConvertTo;
+import net.mindview.util.Generated;
+import net.mindview.util.Generator;
+import net.mindview.util.RandomGenerator;
 
 import java.util.Arrays;
 

@@ -3,7 +3,7 @@ package bookCode.strings;//: strings/Finding.java
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import static java.bookCode.net.mindview.util.Print.*;
+import static net.mindview.util.Print.*;
 
 public class Finding {
   public static void main(String[] args) {

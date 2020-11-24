@@ -3,7 +3,7 @@ package bookCode.annotations;////: annotations/InterfaceExtractorProcessor.java
 //// {Exec: apt -factory
 //// annotations.InterfaceExtractorProcessorFactory
 //// Multiplier.java -s ../annotations}
-//package java.bookCode.annotations;
+//package bookCode.annotations;
 //import com.sun.mirror.apt.*;
 //import com.sun.mirror.declaration.*;
 //import java.io.*;

@@ -2,7 +2,7 @@
 // Abstract classes and methods.
 package bookCode.interfaces.music4;
 
-import polymorphism.music.Note;
+import bookCode.polymorphism.music.Note;
 
 import static net.mindview.util.Print.*;
 

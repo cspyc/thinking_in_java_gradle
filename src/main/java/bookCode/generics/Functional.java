@@ -9,8 +9,8 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.concurrent.atomic.AtomicLong;
 
-import static java.bookCode.net.mindview.util.Print.*;
-import static java.bookCode.net.mindview.util.Print.print;
+import static net.mindview.util.Print.*;
+import static net.mindview.util.Print.print;
 
 // Different types of function objects:
 interface Combiner<T> { T combine(T x, T y); }

@@ -1,8 +1,8 @@
 package bookCode.typeinfo;//: typeinfo/HiddenImplementation.java
 // Sneaking around package access.
 
-import java.bookCode.typeinfo.interfacea.A;
-import java.bookCode.typeinfo.packageaccess.*;
+import bookCode.typeinfo.interfacea.A;
+import bookCode.typeinfo.packageaccess.*;
 import java.lang.reflect.Method;
 
 public class HiddenImplementation {

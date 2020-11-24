@@ -1,12 +1,14 @@
 //: annotations/AtUnitComposition.java
 // Creating non-embedded tests.
 package bookCode.annotations;
-import java.bookCode.net.mindview.atunit.*;
-import java.bookCode.net.mindview.util.*;
+import net.mindview.atunit.Test;
+import net.mindview.util.OSExecute;
+
 
 public class AtUnitComposition {
   AtUnitExample1 testObject = new AtUnitExample1();
-  @Test boolean _methodOne() {
+  @Test
+  boolean _methodOne() {
     return
       testObject.methodOne().equals("This is methodOne");
   }

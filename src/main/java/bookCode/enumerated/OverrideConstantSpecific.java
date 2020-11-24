@@ -1,6 +1,6 @@
 package bookCode.enumerated;//: enumerated/OverrideConstantSpecific.java
 
-import static java.bookCode.net.mindview.util.Print.*;
+import static net.mindview.util.Print.*;
 
 public enum OverrideConstantSpecific {
   NUT, BOLT,

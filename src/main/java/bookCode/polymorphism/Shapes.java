@@ -1,6 +1,6 @@
 package bookCode.polymorphism;//: polymorphism/Shapes.java
 // Polymorphism in Java.
-import java.bookCode.polymorphism.shape.*;
+import bookCode.polymorphism.shape.*;
 
 public class Shapes {
   private static RandomShapeGenerator gen =

@@ -1,7 +1,10 @@
 package bookCode.arrays;//: arrays/TestArrayGeneration.java
 // Test the tools that use generators to fill arrays.
 
-import net.mindview.util.*;
+import  net.mindview.util.*;
+import net.mindview.util.ConvertTo;
+import net.mindview.util.Generated;
+import net.mindview.util.RandomGenerator;
 
 import java.util.Arrays;
 

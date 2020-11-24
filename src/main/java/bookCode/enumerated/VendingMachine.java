@@ -7,7 +7,7 @@ import net.mindview.util.*;
 import java.util.EnumMap;
 import java.util.Iterator;
 
-import static enumerated.Input.*;
+import static bookCode.enumerated.Input.*;
 import static net.mindview.util.Print.*;
 
 enum Category {
