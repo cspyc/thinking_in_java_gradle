@@ -11,9 +11,9 @@ import static org.junit.Assert.assertThat;
  **/
 public class StringApisTest {
 
-    @Test
-    public void should_return_true_when_a_compare_to_z() throws Exception {
-        StringApis stringApis = new StringApis();
-        assertThat(stringApis.compareTo("a","z"), greaterThan(0));
-    }
+//    @Test
+//    public void should_return_true_when_a_compare_to_z() throws Exception {
+//        StringApis stringApis = new StringApis();
+//        assertThat(stringApis.compareTo("a","z"), greaterThan(0));
+//    }
 }

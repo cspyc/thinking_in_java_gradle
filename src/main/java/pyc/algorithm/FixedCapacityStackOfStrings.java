@@ -27,7 +27,7 @@ public class FixedCapacityStackOfStrings {
         return items[--size];
     }
 
-    public void empty() {
-        size = 0;
+    public boolean isEmpty() {
+        return size == 0;
     }
 }

@@ -71,12 +71,12 @@ public class OrdinaryStreamApiTest {
         Assert.assertEquals("ACTION", strings.get(strings.size() - 1));
     }
 
-    @Test
-    public void should_return_count_of_different_word_in_file() throws Exception {
-        Path dataFile = Paths.get("thinking_in_java","test","resource","data.txt");
-        long uniqueWords = ordinaryStreamApi.countUniqueWordInFile(dataFile);
-        Assert.assertEquals(5, uniqueWords);
-    }
+//    @Test
+//    public void should_return_count_of_different_word_in_file() throws Exception {
+//        Path dataFile = Paths.get("thinking_in_java","test","resource","data.txt");
+//        long uniqueWords = ordinaryStreamApi.countUniqueWordInFile(dataFile);
+//        Assert.assertEquals(5, uniqueWords);
+//    }
 
     @Test
     public void should_return_a_list_number_by_stream_iterate() throws Exception {
